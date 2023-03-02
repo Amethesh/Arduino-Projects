@@ -20,9 +20,9 @@
 
 //Enter the device IDs here
 #define device_ID_1   "63d0195c22e49e3cb5ee3186"
-#define device_ID_2   "63d0195c22e49e3cb5ee318"
-#define device_ID_3   "63d0193b07e1833ecb4a446c"
-#define device_ID_4   "63d0190407e1833ecb4a438e"
+#define device_ID_2   "63d0193b07e1833ecb4a446c"
+#define device_ID_3   "63d0190407e1833ecb4a438e"
+#define device_ID_4   "xxxxxxxxxxxxxxxxxxxxxxxx"
 
 // define the GPIO connected with Relays and switches
 #define RelayPin1 5  //D1
